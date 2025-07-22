@@ -5,15 +5,15 @@
   "Scripts": {
     "Install": [
       {
-        "Uri": "https://raw.githubusercontent.com/jhondrheydacudao/images_v2/refs/heads/main/nginx/conf.d/default.conf",
+        "Uri": "https://raw.githubusercontent.com/Hubdarkweb/images_v2/refs/heads/main/nginx/conf.d/default.conf",
         "Path": "default.conf"
       },
       {
-        "Uri": "https://raw.githubusercontent.com/jhondrheydacudao/images_v2/refs/heads/main/nginx/index.html",
+        "Uri": "https://raw.githubusercontent.com/Hubdarkweb/images_v2/refs/heads/main/nginx/index.html",
         "Path": "index.html"
       },
       {
-        "Uri": "https://raw.githubusercontent.com/jhondrheydacudao/images_v2/refs/heads/main/nginx/start.sh",
+        "Uri": "https://raw.githubusercontent.com/Hubdarkweb/images_v2/refs/heads/main/nginx/start.sh",
         "Path": "start.sh"
       }
     ]
