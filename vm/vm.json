@@ -1,0 +1,15 @@
+{
+  "Image": "dockurr/qemu-ubuntu",
+  "Cmd": "bash",
+  "Env": {
+    "START": "qemu-system-x86_64 -m 2048 -smp 2 -hda /vm/ubuntu.qcow2 -net nic -net user"
+  },
+  "StopCommand": "poweroff",
+  "Name": "UbuntuVM",
+  "Description": "Ubuntu VM running inside Docker using QEMU.",
+  "Author": "static",
+  "AuthorName": "skyport",
+  "Meta": {
+    "Version": "1.0"
+  }
+}
